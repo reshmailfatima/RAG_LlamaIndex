@@ -1,4 +1,11 @@
-llama-index
+#requirements
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart
 python-dotenv
-openai
+llama-index
+faiss-cpu
+numpy
+pandas
 pypdf
+pydantic
